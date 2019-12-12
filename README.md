@@ -1,10 +1,18 @@
-# nuxt-postcss
+# Nuxt x Lottie
 
-> My stunning Nuxt.js project
+> Nuxt で Lottie を使う方法
+
+## デモ
+
+- https://share.getcloudapp.com/jkunnLmA
+
+## 参考
+
+- [Lottie と Nuxt で Web ページをリッチにする](https://qiita.com/godan09/items/73015d0b8ef3a4dd8dba)
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ yarn install
 
